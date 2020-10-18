@@ -9,7 +9,7 @@ body{
 }
 
 .hero{
-    background: url('/img/home.jpg') center top;
+    background: url('img/home.jpg') center top;
     background-size: cover;
     background-attachment: fixed;
     min-height: 700px;
